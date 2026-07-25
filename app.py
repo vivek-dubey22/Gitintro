@@ -1,3 +1,5 @@
-print('feature1')
-print('feature2')
-print('feature3')
+print(" my git project")
+
+print("learning staging, local and remote direcotry")
+if a >5:
+    print("a is greater than 5")
