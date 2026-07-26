@@ -1,5 +1,5 @@
-print(" my git project")
+def my_function(a, b):
+    addition = a + b
+    print(addition)  # Prints the result to the console
 
-print("learning staging, local and remote direcotry")
-if a >5:
-    print("a is greater than 5")
+my_function(3, 5)
